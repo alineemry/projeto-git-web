@@ -1,3 +1,4 @@
-print("Hello, World!")
+print("Bem-vindo ao sistema!")
 print("Nova funcionalidade adicionada!")
+
 
